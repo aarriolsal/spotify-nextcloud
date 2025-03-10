@@ -1,0 +1,7 @@
+# Carpetas cache de python
+__pycache__/
+.cache
+
+# Archivos de desarrollo
+.env
+
